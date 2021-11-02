@@ -1,0 +1,20 @@
+.nav {
+  width: 100%;
+  height: $navHeight;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0px 40px;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  .nav__logo {
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    img {
+
+    }
+  }
+}

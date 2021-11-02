@@ -1,1 +1,1 @@
-# Warringa Arts Centre
+# Warringa
